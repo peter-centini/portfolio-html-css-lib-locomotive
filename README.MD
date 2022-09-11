@@ -1,29 +1,27 @@
 ## Site construit en HTML/CSS/JAVASCRIPT avec la librairie LOCOMOTIVE
     
-### Cette librairie permet de faire des animations de fous avec trés peu de prise de tête au niveau des réglages 
+### Cette librairie permet de faire des animations de fous avec trés peu de réglage (animation de texte, d'image,au scroll, ect).
 
-## Voici le site avec des exemples d'animations excellentes
+## Le site avec des exemples d'animations.
 ```
 https://locomotivemtl.github.io/locomotive-scroll/
 
 ```
-## voici le github pour les attributs 
+## Le github pour les instances, les réglages 
 
 ```
 https://github.com/locomotivemtl/locomotive-scroll
 
 ```
 
-
-
-#### Une fois le serveur démarrer ouvrir votre navigateur préférer et vous rendre a l'adresse suivante 
-
+#### Pour le visualiser faire un click droit sur le fichier html et choisir Start Web revipew Server
+     
 ```
-URL : [http://localhost:5050/](http://localhost:5050)
+URL : [http://localhost:5050/]
 ```
-
 
 ### <p align="center"> screen du projet</p>
+
 
 <p align="center">
 <img src="https://github.com/peter-centini/portfolio-html-scc-lib-locomotive/blob/main/screen-locomotive.png" width="350" title="screen du projet"></p>
