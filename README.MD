@@ -1,11 +1,13 @@
 ## Site construit en HTML/CSS/JAVASCRIPT avec la librairie LOCOMOTIVE
     
-### Cette librairie permet de faire de animation de fous avec tres peu de prise de tête au niveau de réglage 
+### Cette librairie permet de faire des animations de fous avec trés peu de prise de tête au niveau des réglages 
+
+## Voici le site avec des exemples d'animations excellentes
 ```
 https://locomotivemtl.github.io/locomotive-scroll/
 
 ```
-voici le github pour les attributs 
+## voici le github pour les attributs 
 
 ```
 https://github.com/locomotivemtl/locomotive-scroll
